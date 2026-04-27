@@ -1,1 +1,5 @@
+1. The bug is that the code read the value of num1 and num2 as strings not 
+   numbers
+2. I changed the typeof num1 and num2 to Number, so the code can read it as
+   integers, add should be fixed. [fix](fix)
 
